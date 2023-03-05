@@ -1,0 +1,4 @@
+repository "Unity-Wrokbench2@easyframework@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
